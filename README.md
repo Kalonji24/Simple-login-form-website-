@@ -1,22 +1,19 @@
 # Simple-login-form-website-
 Form Fields:
-
 First Name
 Surname
 Email Address
 Password
 
 Features:
-
-Modern, responsive design with a gradient background
-Input validation (checks for empty fields and valid email format)
-Clean styling with hover effects
-Success popup that appears when you submit the form
-Option to close the popup and clear the form
+1.Modern, responsive design with a gradient background
+2.Input validation (checks for empty fields and valid email format)
+3.Clean styling with hover effects
+4.Success popup that appears when you submit the form
+5.Option to close the popup and clear the form
 
 How it works:
-
-Fill in all the required fields
-Click the "Submit" button
-A success popup will appear saying "Successfully Logged In!"
-Click "Close" to dismiss the popup
+1.Fill in all the required fields
+2.Click the "Submit" button
+3.A success popup will appear saying "Successfully Logged In!"
+4.Click "Close" to dismiss the popup
